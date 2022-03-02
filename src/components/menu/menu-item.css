@@ -1,0 +1,29 @@
+.menu-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 1em;
+    border-bottom: 1px solid rgba(221, 221, 221, 0.933);
+}
+
+.menu-item .left{
+    display: flex;
+    flex-direction: column;
+    row-gap: .4em;
+}
+
+.menu-item .item-name{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.menu-item .item-desc{
+    font-style: italic;
+}
+
+.menu-item .item-price{
+    font-size: 1.3em;
+    font-weight: bold;
+    color : #AA6D39;
+}
+

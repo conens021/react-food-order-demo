@@ -1,0 +1,8 @@
+.menu-wrapper{
+    min-height: 500px;
+    background-color: #FEFEFE;
+    width: 55%;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

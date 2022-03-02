@@ -1,0 +1,6 @@
+.menu-items{
+    display: flex;
+    flex-direction: column;
+    padding:2em;
+    row-gap: 2em;
+}
